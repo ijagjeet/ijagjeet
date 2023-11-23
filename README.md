@@ -1,6 +1,22 @@
-# Hi there, 👋 I'm Jagjeet Singh
+<div>
+  <a href="https://ijagjeet.com" target="_blank">
+    <img align="left" width="100" height="auto"  src="https://ijagjeet.com/_next/image?url=%2Fme%2Flogo.png&w=1024&q=90" alt="Jagjeet Singh"/>
+  </a>
+  <h1>Hi there, 👋 I'm Jagjeet Singh</h1>
+  Hire me: 
+  <a href="https://ijagjeet.com" target="_blank">https://ijagjeet.com</a>
+</div>
+<br/>
+<br/>
 
-![Jagjeet Singh](https://ijagjeet.com/_next/image?url=%2Fme%2Flogo.png&w=1024&q=90)
+###
+
+
+
+###
+
+## contributions
+![Jagjeet Singh](/contributions.gif)
 
 ## Ready to discuss your project? Let's super-charge your business today! 💼🚀
 
