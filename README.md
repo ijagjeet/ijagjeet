@@ -2,12 +2,11 @@
   <a href="https://ijagjeet.com" target="_blank">
     <img align="left" width="100" height="auto"  src="https://avatars.githubusercontent.com/u/46004289?v=4" alt="Jagjeet Singh"/>
   </a>
-  <h1>Hi there, 👋 I'm Jagjeet Singh</h1>
-  Hire me: 
-  <a href="https://ijagjeet.com" target="_blank">https://ijagjeet.com</a>
+  <h1>Hi there 👋, I'm Jagjeet Singh</h1>
+  Hire me: <a href="https://ijagjeet.com" target="_blank">https://ijagjeet.com</a>
 </div>
-<br/>
-<br/>
+
+---
 
 ###
 
@@ -72,8 +71,11 @@ I have a strong preference for Vue.js and React.js frameworks. Vue.js stands out
 
 ## Employment
 
+**Winjit Technologies Pvt. Ltd.**
+- Senior Software Engineer (2024-Present) 🌍🏢👨‍💼
+
 **NJ Graphica**
-- Team Leader (2022-Present) 🏢👨‍💼
+- Team Leader (2022-2024) 🏢👨‍💼
 
 **NJ Graphica**
 - Senior Software Engineer (2018-2022) 🏢👨‍💻
